@@ -1,0 +1,6 @@
+
+ssquid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8¸Ä·šÿ/
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Äã†ıÿÿÿÿ8²ñ®šÿ/
+squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ãÎ°šÿ/
+qsquid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8¡ö¯šÿ/
